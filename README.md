@@ -3,11 +3,11 @@
   <img src="https://github.com/generative-design-lab/.github/raw/main/img/logo.png" alt="GDL" width="360">
   <br>
   <br>
-  <b>Generative Design Lab</b>
-  <br>
-  <sub><sup>Weak Layer Anticrack Nucleation Model</sup></sub>
-  <br>
 </h1>
+
+<p align="center">
+  <a href=https://www.ismd.tu-darmstadt.de/das_institut_ismd/index.en.jsp>Institute of Structural Mechanics and Design</a> &nbsp;&#8226; &nbsp;<a href=https://www.tu-darmstadt.de>Technical University of Darmstadt</a>
+</p>
 
 ## About the organization
 
